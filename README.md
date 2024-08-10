@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xezernn&show_icons=true&locale=en" alt="xezernn" /></p>
 
-![snake gif](https://github.com/xezernn/xezernn/blob/output/github-contribution-grid-snake.gif)
